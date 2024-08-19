@@ -1,0 +1,17 @@
+{
+    "name": "phpdev/finansbank",
+    "description": "Finansbank Web Ekstre Hesap Hareketleri",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Phpdev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Selim Hallaç",
+            "email": "selimhallac@gmail.com"
+        }
+    ],
+    "require": {}
+}
